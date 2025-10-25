@@ -1,0 +1,24 @@
+# ── System files ────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Editor settings ─────────────────────────────
+.vscode/
+.idea/
+*.swp
+
+# ── Python related ──────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+
+# ── SnapFold files ──────────────────────────────
+SnapFold-*.md
+SnapFold.md
+
+# ── Misc ────────────────────────────────────────
+*.log
